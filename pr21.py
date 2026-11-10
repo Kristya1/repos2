@@ -7,6 +7,3 @@ while (r<10):
     if r==5 : break
     print(r)
 print(r)
-# Изменения в ветке feature
-print("\nСколько раз сработал цикл? ->")
-print(r)
